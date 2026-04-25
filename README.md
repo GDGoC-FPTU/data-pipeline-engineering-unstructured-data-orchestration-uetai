@@ -4,6 +4,10 @@
 
 **Student ID**: 2A202600180
 
+**GithubName**: nmhieuhieuhieu
+
+**Email**: minhhieutrumhoa1@gmail.com
+
 **Team**: 1 member
 
 **Topic**: Data Pipeline Engineering - Unstructured Data Orchestration
